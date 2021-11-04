@@ -29,6 +29,10 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
+<<<<<<< HEAD
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 		00000
+=======
+		Responsive Tools (github.com/ajlkn/responsive-tools)
+>>>>>>> b39903a95c45f6ccd8d6e3fa5f5289dff9e5bce6
